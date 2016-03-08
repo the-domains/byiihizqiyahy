@@ -1,28 +1,40 @@
-name: BY II Hizqiyah (Y)
 favicon: null
-layout_spectrum: 0.2689817559439689
-typography_spectrum: 0.9431268069893122
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: BY II Hizqiyah (Y)
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6196699817664921
-  lightness: 0.29960945062339306
-  saturation: 0.8791261399164796
-  rhythmicContrast: 0.24097426910884678
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8791261
+  brandStrength: 0.8189964
+  lightness: 0.4713262
+  brandColors:
+    - '#FCF5EF'
+    - '#4B3832'
+    - '#C5A288'
+    - '#906D54'
+    - '#CF7F54'
+  rhythmicContrast: 0.4820789
+typography_spectrum: 0.9587814
+layout_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
