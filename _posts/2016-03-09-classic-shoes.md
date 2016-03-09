@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:dcf8ff9a-0520-484f-bad7-a59019bcd410'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-09T22:04:47.728Z'
+dateModified: '2016-03-09T22:04:47.390Z'
 author: []
-datePublished: '2016-03-09T19:28:10.819Z'
-publisher:
-  domain: ''
-  name: ''
 title: Classic Shoes
-dateModified: '2016-03-09T19:19:59.330Z'
 sourcePath: _posts/2016-03-09-classic-shoes.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: classic-shoes/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
