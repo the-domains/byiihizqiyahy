@@ -1,8 +1,7 @@
-layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: BY II Hizqiyah (Y)
+favicon: null
+layout_spectrum: 0.09645
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -15,25 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.9928315
-  lightness: 0.03942652
   brandColors:
     - '#65635D'
     - '#BDB4A3'
     - '#FFFBBD'
     - '#B4A36E'
+  brandStrength: 0.9928315
+  lightness: 0.03942652
+  saturation: 1
   rhythmicContrast: 0.6505376
-typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: BY II Hizqiyah (Y)
+purpose: []
