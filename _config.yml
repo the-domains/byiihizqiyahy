@@ -1,4 +1,4 @@
-name: BY II Hizqiyah (Y)
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -9,24 +9,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 0.6505376
-  brandColors:
-    - '#5C554A'
-    - '#1E140F'
-    - '#FAB454'
-    - '#9A6530'
-    - '#FAE7D1'
+  brandStrength: 0.9928315
   lightness: 0.03942652
+  brandColors:
+    - '#65635D'
+    - '#BDB4A3'
+    - '#FFFBBD'
+    - '#B4A36E'
+  rhythmicContrast: 0.6505376
 typography_spectrum: 1
 cta:
   bucket: null
@@ -37,4 +36,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-layout_spectrum: 1
+name: BY II Hizqiyah (Y)
