@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:abf02d81-dbb9-419b-a81d-212f65b161ee'
+inLanguage: null
+starred: false
+keywords: []
 description: Comfortable
+datePublished: '2016-03-09T22:04:52.708Z'
+dateModified: '2016-03-09T22:04:52.489Z'
 author: []
-datePublished: '2016-03-09T19:28:10.885Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Comfortable '
-dateModified: '2016-03-09T19:21:33.969Z'
 sourcePath: _posts/2016-03-09-comfortable.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: comfortable/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
