@@ -1,4 +1,8 @@
-layout_spectrum: 0
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8791261
-  brandStrength: 0.9498208
-  lightness: 0.4713262
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.03942652
   brandColors:
-    - '#1F160C'
-    - '#666B81'
-    - '#FFFCFA'
-    - '#D7C61F'
-    - '#CF2F0C'
-  rhythmicContrast: 0.4820789
+    - '#5C554A'
+    - '#1E140F'
+    - '#FAB454'
+    - '#9A6530'
+    - '#FAE7D1'
+  rhythmicContrast: 0.6505376
 typography_spectrum: 0.9587814
+layout_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 name: BY II Hizqiyah (Y)
