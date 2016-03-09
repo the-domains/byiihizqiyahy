@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.theoutbound.com'
-  name: Theoutbound
-  favicon: 'https://cdn.theoutbound.com/assets/favicons/favicon-e83436ee1133aedd98eb9dc259de297d.ico'
-  domain: mandrillapp.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://mandrillapp.com/track/click/30377552/www.theoutbound.com?p=eyJzIjoiX2MtN3hydC11VWVVSHgzSUJZVWtKVmlyVlhNIiwidiI6MSwicCI6IntcInVcIjozMDM3NzU1MixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnRoZW91dGJvdW5kLmNvbVxcXC9hcnRpY2xlc1xcXC81LXdheXMtbmF0dXJlLXdpbGwtaGVscC1yZWxpZXZlLXlvdXItc3RyZXNzXCIsXCJpZFwiOlwiYzg4MmYzMjFkYmExNDA2Nzg2NjZjMDc5ODBhNGQwNTVcIixcInVybF9pZHNcIjpbXCIwY2YwNTMzMjk5YTgyYWU5NjU4OTRhNTZkNjQwMjIxMTViMzY1NzljXCJdfSJ9'
+inLanguage: en
+starred: true
 keywords:
   - anxiety
   - cortisol
@@ -18,17 +17,20 @@ keywords:
   - decrease
   - outside
 description: 'My first panic attack came out of nowhere; I was taking my jacket off and boom, I was certain I was about to have a stroke or heart attack. At the time I was 26, in good shape, and no history of cardiovascular problems in my family.'
-inLanguage: en
+datePublished: '2016-03-09T22:04:25.030Z'
+dateModified: '2016-03-09T22:04:24.840Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://mandrillapp.com/track/click/30377552/www.theoutbound.com?p=eyJzIjoiX2MtN3hydC11VWVVSHgzSUJZVWtKVmlyVlhNIiwidiI6MSwicCI6IntcInVcIjozMDM3NzU1MixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnRoZW91dGJvdW5kLmNvbVxcXC9hcnRpY2xlc1xcXC81LXdheXMtbmF0dXJlLXdpbGwtaGVscC1yZWxpZXZlLXlvdXItc3RyZXNzXCIsXCJpZFwiOlwiYzg4MmYzMjFkYmExNDA2Nzg2NjZjMDc5ODBhNGQwNTVcIixcInVybF9pZHNcIjpbXCIwY2YwNTMzMjk5YTgyYWU5NjU4OTRhNTZkNjQwMjIxMTViMzY1NzljXCJdfSJ9'
 title: 5 Ways Nature Will Help Relieve Your Stress
-datePublished: '2016-03-09T20:41:31.135Z'
-dateModified: '2016-03-09T20:35:49.155Z'
 sourcePath: _posts/2016-03-09-5-ways-nature-will-help-relieve-your-stress.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Theoutbound
+  domain: mandrillapp.com
+  url: 'https://www.theoutbound.com'
+  favicon: 'https://cdn.theoutbound.com/assets/favicons/favicon-e83436ee1133aedd98eb9dc259de297d.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
