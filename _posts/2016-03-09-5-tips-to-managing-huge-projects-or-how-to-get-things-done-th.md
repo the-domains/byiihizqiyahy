@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-09T19:28:11.208Z'
+datePublished: '2016-03-09T22:05:06.807Z'
 publisher:
   name: ''
   domain: ''
 title: '5 Tips To Managing Huge Projects | How To Get Things Done That Seem Impossible | Project Management Methodologies'
-dateModified: '2016-03-09T19:27:34.649Z'
-starred: true
+dateModified: '2016-03-09T19:28:27.018Z'
+starred: false
 sourcePath: _posts/2016-03-09-5-tips-to-managing-huge-projects-or-how-to-get-things-done-th.md
 published: true
 inFeed: true
