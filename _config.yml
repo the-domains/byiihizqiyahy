@@ -1,6 +1,6 @@
 name: 'BY II Hizqiyah '
 favicon: null
-layout_spectrum: 0.32741
+layout_spectrum: 0.6269
 typography_spectrum: 1
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#BDB4A3'
     - '#FFFBBD'
     - '#B4A36E'
-  brandStrength: 0.9928315
+  brandStrength: 0.6875
   lightness: 0.03942652
   saturation: 0.5625
   rhythmicContrast: 0.6505376
