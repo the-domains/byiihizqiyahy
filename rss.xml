@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BY II Hizqiyah (Y)]]></title>
         <description><![CDATA[BY II Hizqiyah (Y)]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/by ii hizqiyah ( y )/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 18:55:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 19:29:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/by ii hizqiyah ( y )/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fresh.]]></title>
+            <description><![CDATA[<article><h1>Fresh.</h1><p>DSTLD offers the best men's tees, long tees, tank tops, crew neck, v-neck, and long sleeved shirts, starting at just $20. Made in Los Angeles from 100% cotton.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96371ba1b246a751ed7d674eec65e1b5b05ad39a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/by ii hizqiyah ( y )/fresh/index.html</link>
+            <guid isPermaLink="false">69314d19-6709-4adc-a6a3-099a79959c30</guid>
+            <pubDate>Wed, 09 Mar 2016 19:28:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Favorite Shirts]]></title>
             <description><![CDATA[<h1>Favorite Shirts</h1>]]></description>
-            <link>undefinedfavorite-shirts/index.html</link>
+            <link>https://thegrid.ai/by ii hizqiyah ( y )/favorite-shirts/index.html</link>
             <guid isPermaLink="false">d65bb8ca-0f4e-4f83-a5d4-96f18ea73926</guid>
             <pubDate>Wed, 09 Mar 2016 18:54:55 GMT</pubDate>
         </item>
