@@ -1,5 +1,35 @@
-title: BY II HizqiyahY
-purpose: []
+typography_spectrum: 1
+color:
+  saturation: 0.6164874
+  brandStrength: 0
+  lightness: 0.5215054
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#25272A'
+    - '#A2B2B5'
+    - '#FAD1BC'
+  rhythmicContrast: 0.4480287
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6269
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'BY II Hizqiyah '
+cta:
+  bucket: null
+  version: null
+  domain: null
+style: taylor
+navigation:
+  - name: Samsung Announces 512GB NVMe SSD That's Smaller Than a Stamp
+    id: 10199672-636c-4894-9a04-d962e5f463aa
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.6164874
-  brandStrength: 0
-  lightness: 0.5215054
-  brandColors:
-    - '#FFFFFF'
-    - '#125688'
-    - '#25272A'
-    - '#A2B2B5'
-    - '#FAD1BC'
-  rhythmicContrast: 0.4480287
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 'BY II Hizqiyah '
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.6269
+title: BY II HizqiyahY
+purpose: []
