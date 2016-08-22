@@ -24,23 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
-style: taylor
 navigation:
   - name: Samsung Announces 512GB NVMe SSD That's Smaller Than a Stamp
     id: 10199672-636c-4894-9a04-d962e5f463aa
     type: content
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 title: BY II HizqiyahY
 purpose: []
